@@ -11,17 +11,16 @@
 ![t1](./screenshots/ss_1.png)
 ![t2](./screenshots/ss_2.png)
 ![t3](./screenshots/ss_3.png)
-![t4](./screenshots/ss_4.png)
 
 ## Installation
 ```sh
-Hyde theme import "Paranoid Sweet" https://github.com/rishav12s/Paranoid-Sweet
+Hyde theme import "Rain Dark" https://github.com/rishav12s/Rain-Dark
 ```
 or 
 ```sh
 Hyde theme import
 ```
-and choose Paranoid Sweet
+and choose Rain Dark
 
 ---
 
