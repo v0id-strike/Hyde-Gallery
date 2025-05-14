@@ -8,19 +8,19 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
-![t1](./screenshots/ss_1.png)
-![t2](./screenshots/ss_2.png)
-![t3](./screenshots/ss_3.png)
+![t1](./screenshots/240713_22h51m38s_screenshot.png)
+![t2](./screenshots/240710_23h48m57s_screenshot.png)
+![t3](./screenshots/240713_22h55m14s_screenshot.png)
 
 ## Installation
 ```sh
-Hyde theme import "Rain Dark" https://github.com/rishav12s/Rain-Dark
+Hyde theme import "Red Stone"  https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone
 ```
 or 
 ```sh
 Hyde theme import
 ```
-and choose Rain Dark
+and choose Red Stone
 
 ---
 
