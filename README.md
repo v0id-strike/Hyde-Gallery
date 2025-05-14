@@ -1,4 +1,4 @@
-# Cosmic Blue
+# Piece Of Mind
 
 <div align="center">
     <a href="https://discord.gg/AYbJ9MJez7">
@@ -17,9 +17,9 @@
 ## Installation
 
 #### HyDE Project
-To install **Cosmis Blue** on `HyDE Project`, run the following command:
+To install **Piece Of Mind** on `HyDE Project`, run the following command:
 ```sh
-hydectl theme import --name "Cosmic Blue" --url https://github.com/Maroc02/Cosmic-Blue
+hydectl theme import --name "Piece Of Mind" --url https://github.com/Maroc02/Piece-Of-Mind
 ```
 
 Alternatively, you can import the theme by running:
@@ -27,13 +27,13 @@ Alternatively, you can import the theme by running:
 hydectl theme import
 ```
 
-Then choose **Cosmis Blue** from the options.
+Then choose **Piece Of Mind** from the options.
 
 #### Hyprdots
-To install **Cosmis Blue** on `Hyprdots`, run the following command:
+To install **Piece Of Mind** on `Hyprdots`, run the following command:
 
 ```sh
-Hyde theme import "Cosmic Blue" https://github.com/Maroc02/Cosmic-Blue
+Hyde theme import "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
 ```
 
 Alternatively, you can import the theme by running:
@@ -41,10 +41,13 @@ Alternatively, you can import the theme by running:
 Hyde theme import
 ```
 
-Then choose **Cosmis Blue** from the options.
+Then choose **Piece Of Mind** from the options.
 
 #### General
 Alternatively, you can use a general option that works on both `HyDE Project` and `Hyprdots`:
 ```sh
-~/HyDE/Scripts/themepatcher.sh "Cosmic Blue" https://github.com/Maroc02/Cosmic-Blue
+~/HyDE/Scripts/themepatcher.sh "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
 ```
+
+## Notes
+This theme is inspired by the **Kanagawa** color palette and is based on [rishav12s's unreleased Kanagawa theme](https://github.com/rishav12s/Kanagawa). His repository also includes additional possible wallpapers.
