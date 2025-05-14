@@ -8,21 +8,24 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
-![t1](./screenshots/ss1.png)
-![t2](./screenshots/ss2.png)
-![t3](./screenshots/ss3.png)
-![t3](./screenshots/ss4.png)
-![t3](./screenshots/ss5.png)
+> [!CAUTION]
+> Icons dont work in Dolphin use gtk file managers like thunar, nemo, nautilus, etc.....
+
+![t1](./screenshots/ss_1.png)
+![t2](./screenshots/ss_2.png)
+![t3](./screenshots/ss_3.png)
+![t4](./screenshots/ss_4.png)
+![t5](./screenshots/ss_5.png)
 
 ## Installation
 ```sh
-Hyde theme import "Oxo Carbon" https://github.com/rishav12s/Oxo-Carbon
+Hyde theme import "Pixel Dream" https://github.com/rishav12s/Pixel-Dream
 ```
 or 
 ```sh
 Hyde theme import
 ```
-and choose Oxo Carbon
+and choose Pixel Dream
 
 ---
 
