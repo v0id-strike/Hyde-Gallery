@@ -1,53 +1,30 @@
-# Piece Of Mind
+<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png" alt="HyDE">
 
-<div align="center">
-    <a href="https://discord.gg/AYbJ9MJez7">
-        <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">    
-    </a>
-</div>
-<div align="center"><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
+# Nightbrew
+A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-> **IMPORTANT**
-> This is not a standalone theme, it requires [HyDe](https://github.com/HyDE-Project/HyDE) to be installed.
+For documentation on how to make themes, please visit:
+[HyDE Documentation - Making Themes](https://hydeproject.pages.dev/en/theming/making-themes/)
 
-![t1](./screenshots/ss_1.png)
-![t2](./screenshots/ss_2.png)
-![t3](./screenshots/ss_3.png)
+# Theme Gallery
+<!-- TABLE_START -->
+| Theme | Description | Author |
+| --- | --- | --- |
+| [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](https://github.com/jackpawlik1/Nightbrew) | A rich, dark theme crafted for late-night productivity and sleek aesthetics. | [jackpawlik1](https://github.com/jackpawlik1) |
 
-## Installation
+<!-- TABLE_END -->
 
-#### HyDE Project
-To install **Piece Of Mind** on `HyDE Project`, run the following command:
-```sh
-hydectl theme import --name "Piece Of Mind" --url https://github.com/Maroc02/Piece-Of-Mind
-```
+> ## Important
+This is not a standalone theme, it needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed to work.
 
-Alternatively, you can import the theme by running:
-```sh
-hydectl theme import
-```
+<img src="https://cdn.discordapp.com/attachments/1357155497555267754/1357439914832298225/image.png?ex=67f035ef&is=67eee46f&hm=4d3e23ea2796fee0a037bdc96046f4ed97bb2fa71783ed5923fc7692f72d9cd3&&" alt="Nightbrew Preview">
 
-Then choose **Piece Of Mind** from the options.
+> ## Installation
 
-#### Hyprdots
-To install **Piece Of Mind** on `Hyprdots`, run the following command:
+```Hyde theme import "Nightbrew" https://github.com/jackpawlik1/Nightbrew```
 
-```sh
-Hyde theme import "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
-```
+or
 
-Alternatively, you can import the theme by running:
-```sh
-Hyde theme import
-```
+```Hyde theme import```
 
-Then choose **Piece Of Mind** from the options.
-
-#### General
-Alternatively, you can use a general option that works on both `HyDE Project` and `Hyprdots`:
-```sh
-~/HyDE/Scripts/themepatcher.sh "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
-```
-
-## Notes
-This theme is inspired by the **Kanagawa** color palette and is based on [rishav12s's unreleased Kanagawa theme](https://github.com/rishav12s/Kanagawa). His repository also includes additional possible wallpapers.
+and choose 'Nightbrew' from the list.
