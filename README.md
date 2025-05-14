@@ -15,13 +15,13 @@
 
 ## Installation
 ```sh
-Hyde theme import "Vanta Black" https://github.com/rishav12s/Vanta-Black
+Hyde theme import "Paranoid Sweet" https://github.com/rishav12s/Paranoid-Sweet
 ```
 or 
 ```sh
 Hyde theme import
 ```
-and choose Vanta Black
+and choose Paranoid Sweet
 
 ---
 
