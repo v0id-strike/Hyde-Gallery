@@ -1,30 +1,47 @@
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png" alt="HyDE">
+<div align = center>
+    <a href="https://discord.gg/tGGFXtND">
+        <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">    
+    </a>
+</div>
+<div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
 
-# Nightbrew
-A rich, dark theme crafted for late-night productivity and sleek aesthetics.
+> [!IMPORTANT]
+> This is not a standalone theme, needs [HyDe](https://github.com/HyDE-Project/HyDE) installed...
 
-For documentation on how to make themes, please visit:
-[HyDE Documentation - Making Themes](https://hydeproject.pages.dev/en/theming/making-themes/)
+## Theme Screenshots
+![t1](./screenshots/1.png)
+![t2](./screenshots/2.png)
 
-# Theme Gallery
-<!-- TABLE_START -->
-| Theme | Description | Author |
-| --- | --- | --- |
-| [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](https://github.com/jackpawlik1/Nightbrew) | A rich, dark theme crafted for late-night productivity and sleek aesthetics. | [jackpawlik1](https://github.com/jackpawlik1) |
+## SDDM theme screenshot
+![t3](./screenshots/sddm.png)
 
-<!-- TABLE_END -->
+## Installation
 
-> ## Important
-This is not a standalone theme, it needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed to work.
+For hyprdots (old)
+```sh
+Hyde theme import "Obsidian-Purple" "https://github.com/amit-0i/Obsidian-Purple"
+```
 
-<img src="https://cdn.discordapp.com/attachments/1357155497555267754/1357439914832298225/image.png?ex=67f035ef&is=67eee46f&hm=4d3e23ea2796fee0a037bdc96046f4ed97bb2fa71783ed5923fc7692f72d9cd3&&" alt="Nightbrew Preview">
+For HyDE (new)
+```sh
+hydectl theme import
+```
 
-> ## Installation
+and choose Obsidian-Purple
 
-```Hyde theme import "Nightbrew" https://github.com/jackpawlik1/Nightbrew```
 
-or
+### Applying SDDM theme
 
-```Hyde theme import```
+```sh
 
-and choose 'Nightbrew' from the list.
+sudo nano /etc/sddm.conf.d/the_hyde_project.conf
+
+```
+```
+[Theme] 
+Current=Obsidian-Purple
+```
+
+---
+
+or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
